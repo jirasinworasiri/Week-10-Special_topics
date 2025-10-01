@@ -1,4 +1,4 @@
 dependencies:
   LED:
-    git: https://github.com/jamelswift/Week-10-Special_topics.git    # เปลี่ยนเป็น url ที่นักศึกษา push ไว้บน git
-    path: S66281/LED
+    git: https://github.com/jirasinworasiri/Week-10-Special_topics.git    # เปลี่ยนเป็น url ที่นักศึกษา push ไว้บน git
+    path: S66029/LED
